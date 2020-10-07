@@ -17,7 +17,7 @@
 <P>特点
 色红褐，皮充盈润泽，质酥软，味醇厚，肥而不腻，酸辣中显鲜，肉香、调料香十足，食肉啃骨，回味无穷。</P>
   <p>注：原料以8份计，蘸汁原料以1份计。</p>
-	<img scr=https://github.com/csyawww/csyawww.github.io/blob/master/4.png?raw=ture">
+	<img src="https://github.com/csyawww/csyawww.github.io/blob/master/4.png?raw=true">
 
   <h1>地摊狗肉</h1>
   <p>　　云南马关县的狗肉，最初源于苗族食谱。也是苗族食谱之中最有名的。原在木厂、小坝子等乡镇的地摊狗肉小有名气。有“苗族的狗，彝族的酒”之说。</p>
