@@ -2,11 +2,11 @@
  <meta charset="utf-8"/>
   <head>家乡的味道</head>
 	<style type="text/css">
-		h1{text-align:center;}
-	div{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true?raw=true);background-repeat: no-repeat;
+		h1{text-align:center;}</style>
+	<style type="text/css">
+		div{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;}
-
 	</style>
 		
 <body>
