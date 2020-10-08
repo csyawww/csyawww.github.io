@@ -1,14 +1,8 @@
 <html lang="zh-cn">
  <meta charset="utf-8"/>
-  <head>家乡的味道</head>
-	<style type="text/css">
-		h1{text-align:center;}</style>
-	<style type="text/css">
-		div{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);background-repeat: no-repeat;
-		background-attachment: fixed;
-		background-position: center;}
+  <head>家乡的味道</head><style type="text/css">
+		h1{text-align:center;}
 	</style>
-		
 <body>
  <h1>脆皮猪脚</h1>
  <p>做法：材料
