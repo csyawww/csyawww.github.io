@@ -1,14 +1,18 @@
 <html lang="zh-cn">
  <meta charset="utf-8"/>
 	
-  <head>	<title>家乡的味道</title>
+  <head>
+  	<title>家乡的味道</title>
 	<style type="text/css">
-		h1{text-align:center;}</style>
+		h1{text-align:center;}</style></head>
+		<head>
 	<style type="text/css">
-		div{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);background-repeat: no-repeat;
+		.mydiv{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;}
-	</head>
+	</style>
+</head>
+<div class="mydiv">
 <body>
  <h1>脆皮猪脚</h1>
  <p>做法：材料
