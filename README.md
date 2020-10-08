@@ -2,7 +2,7 @@
 <html lang="zh-cn">
  <meta charset="utf-8"/>
   <head>
-   <title>家乡的味道</title>
+	  <title>家乡的味道</title>
   </head>
 <body>
  <h1>脆皮猪脚</h1>
