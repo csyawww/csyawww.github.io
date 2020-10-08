@@ -4,7 +4,12 @@
   <head>家乡的味道</head>
 	<style type="text/css">
 		h1{text-align:center;}
-	.mydiv{backgroud-image:ur(
+	.mydiv{background-image:ur(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);
+		background-repeat:no-repeat;
+		background-attachment:fixed;
+		backgrouvd-position:center;}
+	</style>
+		
 <body>
  <h1>脆皮猪脚</h1>
  <p>做法：材料
