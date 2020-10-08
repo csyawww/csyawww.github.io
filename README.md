@@ -1,9 +1,7 @@
 <DOCTYRE html>
 <html lang="zh-cn">
  <meta charset="utf-8"/>
-  <head>
-	  <title>家乡的味道</title>
-  </head>
+  <head>家乡的味道</head>
 <body>
  <h1>脆皮猪脚</h1>
  <p>做法：材料
