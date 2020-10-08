@@ -3,7 +3,7 @@
   <head>家乡的味道</head>
 	<style type="text/css">
 		h1{text-align:center;}
-	.mydiv{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true?raw=true);background-repeat: no-repeat;
+	.div{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true?raw=true);background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;}
 
