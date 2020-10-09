@@ -6,7 +6,7 @@
 	<style type="text/css">
 		h1{text-align:center;}
 		body{text-align:center;}
-		html{background-color:#000000;}
+		html{background-color:rgb(0,255,0);}
 	</style>
 </head>
   <head>
