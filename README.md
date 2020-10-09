@@ -6,7 +6,7 @@
 	<style type="text/css">
 		h1{text-align:center;}
 		body{text-align:center;}
-		html{background-color:rgb(0,255,0);}
+		html{background-color:rgb(23,255,210);}
 		.mydiv{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;}
