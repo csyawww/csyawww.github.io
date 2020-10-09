@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
- <meta charset="utf-8"/>
-	
-  <head>
+	  <head>
+		  <meta charset="utf-8"/>
   	<title>家乡的味道</title>
 	<style type="text/css">
 		h1{text-align:center;}
