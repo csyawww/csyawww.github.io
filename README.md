@@ -8,8 +8,6 @@
 		body{text-align:center;}
 		html{background-color:rgb(0,255,0);}
 	</style>
-</head>
-  <head>
     <div class="mydiv">	
 	<style type="text/css">
 		.mydiv{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);background-repeat: no-repeat;
