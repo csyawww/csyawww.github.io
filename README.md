@@ -6,7 +6,9 @@
   	<title>家乡的味道</title>
 	<style type="text/css">
 		h1{text-align:center;}
-		p{text-align:center;}</style>
+		body{text-align:center;}
+		html{background-color:#000000;}
+	</style>
 </head>
   <head>
 	<style type="text/css">
