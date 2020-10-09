@@ -10,13 +10,14 @@
 	</style>
 </head>
   <head>
+    <div class="mydiv">	
 	<style type="text/css">
 		.mydiv{background-image: url(https://github.com/csyawww/csyawww.github.io/blob/master/5.jpg?raw=true);background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;}
 	</style>
 </head>
-<div class="mydiv">
+
 <body>
  <h1>脆皮猪脚</h1>
  <p>做法：材料
